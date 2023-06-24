@@ -9,3 +9,5 @@ Code, and Supplementary for the paper: _"Transfer across Space via Characteristi
 4. **classic regression test:** Contains the train-test of simple machine learning.
 5. **model:** Contains the all model source codes.
 6. **plots:** Contains plots created for the paper.
+7. **results:** Contains results used in the paper.
+
