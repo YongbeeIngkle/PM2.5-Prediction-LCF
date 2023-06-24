@@ -8,3 +8,4 @@ Code, and Supplementary for the paper: _"Transfer across Space via Characteristi
 3. **encoder model test:** Contains the train-test of SWA, LCF and original feature for simple machine learning (e.g. RF, GBM).
 4. **classic regression test:** Contains the train-test of simple machine learning.
 5. **model:** Contains the all model source codes.
+6. **plots:** Contains plots created for the paper.
